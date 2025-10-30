@@ -7,10 +7,7 @@ I'm a [Your Profession or Role] passionate about [your interests — e.g., build
 
 ## 🚀 About Me
 
-- 💼 Currently working as: **[Your Current Job or Position]**  
-- 🌱 Learning: **[Technologies or Skills you’re exploring]**  
-- 💬 Ask me about: **[Topics you’re good at — e.g., React, Python, UX design, etc.]**  
-- ⚡ Fun fact: **[Something unique or fun about you]**
+
 
 ---
 
